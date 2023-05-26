@@ -1,0 +1,7 @@
+D:\UchebniyPraktika1\Practice_1\bin\Debug\Practice_1.exe
+D:\UchebniyPraktika1\Practice_1\bin\Debug\Practice_1.pdb
+D:\UchebniyPraktika1\Practice_1\obj\Debug\Practice_1.csproj.AssemblyReference.cache
+D:\UchebniyPraktika1\Practice_1\obj\Debug\Practice_1.csproj.SuggestedBindingRedirects.cache
+D:\UchebniyPraktika1\Practice_1\obj\Debug\Practice_1.csproj.CoreCompileInputs.cache
+D:\UchebniyPraktika1\Practice_1\obj\Debug\Practice_1.exe
+D:\UchebniyPraktika1\Practice_1\obj\Debug\Practice_1.pdb
